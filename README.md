@@ -36,3 +36,5 @@ After configuring the settings, you may donwload the following [workflow](https:
 ### I need help!
 
 I made a video explaining step-by-step with some common problems. You can [watch it here](https://youtu.be/2ompUejF1kE) (It's in Portuguese, but with English Subs)
+
+<a href="https://www.buymeacoffee.com/vcasadei" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
